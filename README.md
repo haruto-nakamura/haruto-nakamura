@@ -1,4 +1,4 @@
-# Hi, I'm Zaman Joarddar 👋
+# Hi, I'm mrzamanj 👋
 
 ## 🚀 Tech Lead | Senior Project Manager | Full-Stack Developer
 
