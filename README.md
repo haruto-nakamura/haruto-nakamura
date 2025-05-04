@@ -74,18 +74,4 @@ My career has spanned product engineering, SaaS platforms, API development, micr
 - 🌐 Build for scalability from day one  
 - 🫱🏽‍🫲🏼 Open source is a two-way street—I contribute and maintain
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haruto-nakamura&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haruto-nakamura&layout=compact&theme=tokyonight)
-
----
-
-## 📬 Let's Connect
-
-- 📧 Email: `haruto.dev@email.com`  
-- 🌐 Portfolio: [harutonakamura.dev](https://harutonakamura.dev) *(fictional)*  
-- 💼 LinkedIn: [linkedin.com/in/haruto-nakamura](https://linkedin.com/in/haruto-nakamura) *(fictional)*  
-- 🧑‍🏫 Blog: Coming soon – sharing dev tips, system design patterns, and lessons from real-world projects. 
+--- 
