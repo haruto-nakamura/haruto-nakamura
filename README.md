@@ -1,79 +1,91 @@
-# Hi, I'm mrzamanj 👋
+# 👋 Hello, I'm Haruto Nakamura
 
-## 🚀 Tech Lead | Senior Project Manager | Full-Stack Developer
-
-🔹 Results-driven **Tech Lead & Senior Project Manager** with 9+ years of experience in full-stack development, remote team leadership, and project management. Passionate about building scalable, high-performance applications, optimizing workflows, and driving successful project outcomes.
-
-🔹 Skilled in **PHP, Node.js, Laravel, React, Python, DevOps**, and cloud-based architectures. Experienced in leading **cross-functional remote teams** and implementing Agile methodologies for seamless project execution.
-
-🔹 Actively seeking a **remote Tech Lead / Senior Project Manager role** to drive innovation, enhance team collaboration, and deliver impactful technology solutions.
+🎯 **Senior Software Engineer | Technical Architect | Mentor**  
+📍 Tokyo, Japan | 🌐 Working with global teams | 💼 10+ Years in Tech
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🧠 About Me
 
-### 🚀 Project & Team Management
-- Agile (Scrum, Kanban), Sprint Planning
-- Remote Team Leadership & Collaboration
-- Jira, Asana, Trello, ClickUp
-- Risk & Workflow Optimization
+I’m a passionate software engineer with over a decade of experience delivering high-performance, scalable, and secure software solutions. I enjoy solving complex engineering challenges, designing robust system architectures, and mentoring the next generation of developers.
 
-### 🔧 Software Development & Architecture
-- **Backend:** PHP (Laravel, CodeIgniter), Node.js (Express, Fastify), Python (FastAPI, Flask)
-- **Frontend:** JavaScript (React, jQuery), UI/UX (Figma, Tailwind, Bootstrap)
-- **Databases:** MySQL, MongoDB, Redis, DynamoDB
-- **System Architecture:** Monolithic, Microservices
+💻 From early-stage startups to enterprise systems, I’ve worked across the full SDLC—from requirements gathering to CI/CD and post-deployment monitoring.
 
-### ☁️ DevOps & Cloud Technologies
-- Cloud Services: AWS, DigitalOcean, GCP, VPS
-- CI/CD: Jenkins, GitHub Actions, GitLab CI
-- Docker, Kubernetes, Terraform
-- Nginx, Apache
+My career has spanned product engineering, SaaS platforms, API development, microservices, and cloud-native architectures.
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Summary
 
-### **Senior Project Manager | Al Haramain | Remote** *(09/2022 - Present)*
-- Led a **remote team of 36 developers** across multiple technologies, including PHP, Node.js, Python, React, and databases.
-- Spearheaded the development of **scalable systems**, improving **performance by 10%** and reducing downtime by 35%.
-- Designed and optimized **RESTful APIs & GraphQL**, enhancing system efficiency.
-- Implemented **CI/CD pipelines & Docker**, cutting deployment time by **10%**.
-
-### **Project Manager | Al Haramain | Remote** *(01/2021 - 08/2022)*
-- Managed **30+ remote team members** across different time zones, achieving a **95% on-time delivery rate**.
-- Architected and deployed **12+ full-stack features** with PHP, Node.js, React, and MySQL.
-- Improved **team collaboration by 20%** and streamlined project tracking via Jira, Trello, and Asana.
-
-*(For full experience, visit my LinkedIn profile below!)*
+- 🔧 **Role:** Senior Software Engineer / Full Stack Developer / Lead Backend Engineer  
+- 🏢 **Industry Domains:** Fintech, EdTech, E-commerce, Developer Tools  
+- 🌐 **Remote-Friendly:** Experienced in remote & async collaboration  
+- 📈 **Key Strengths:** System design, performance optimization, DevOps practices, team leadership
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Tech Stack
 
-- **HRM System** *(Node.js, Go, Python, Kafka, Redis, Docker, Microservices)*
-- **LMS - Learning Management System** *(Laravel, jQuery, Bootstrap, RestAPI)*
-- **CRM - Client Relationship Management System** *(Laravel, jQuery, Bootstrap, RestAPI)*
-- **E-commerce Marketplace** *(Next.js, Node.js, MongoDB, Laravel, MySQL)*
-- **Social Media Dashboard** *(React.js, GraphQL, Node.js, MongoDB)*
-
----
-
-## 📜 Certifications
-
-- **Google Project Management Certificate** *(2025)*
-- **Agile Project Management - University of Maryland (Coursera)** *(2024)*
-- **Scrum Master Fundamentals** *(2024)*
-- **Project Management Principles - University of California, Irvine (Coursera)** *(2024)*
+| Area            | Tools & Frameworks                                                                 |
+|------------------|------------------------------------------------------------------------------------|
+| **Frontend**     | React, Next.js, Vue.js, TailwindCSS, Vite, TypeScript                             |
+| **Backend**      | Node.js, Laravel, Django, Spring Boot, Express, FastAPI                           |
+| **Languages**    | JavaScript, PHP, Python, Java, Go (learning), Bash                                |
+| **Databases**    | PostgreSQL, MySQL, MongoDB, Redis, SQLite                                         |
+| **Cloud & DevOps** | AWS (EC2, S3, Lambda), Docker, Kubernetes, GitHub Actions, Vercel, CI/CD         |
+| **Others**       | GraphQL, WebSockets, REST, OAuth2, JWT, Stripe, Elasticsearch, RabbitMQ           |
 
 ---
 
-## 📫 Connect with Me
+## 📌 Key Projects
 
-💼 [LinkedIn](https://www.linkedin.com/in/mrzamanj/)  
-📧 [Email](mailto:mrazmna@gmail.com)  
-🐙 [GitHub](https://github.com/mrzamanj)  
+### 🧾 **SmartInvoice (SaaS Platform)**
+*Automated invoicing tool for freelancers and small businesses.*
+- Built with Laravel + Vue.js
+- Integrated Stripe for billing and webhook automation
+- Role-based user system with team collaboration
+
+### 📊 **Analytics Dashboard for E-commerce**
+*Realtime data pipeline and dashboard for Shopify merchants.*
+- Backend: Node.js + MongoDB
+- Frontend: React with D3.js for data visualization
+- Scalable pub/sub architecture with Redis and WebSockets
+
+### 🧠 **AI-Powered Resume Analyzer**
+*Tool to analyze resumes and suggest improvements using NLP.*
+- Python (Flask) backend with spaCy/NLTK
+- Frontend in Next.js
+- Deployed on AWS with Docker & ECS
 
 ---
 
-🚀 Let's build something amazing together! Open to collaboration and remote opportunities. **Feel free to reach out!**
+## 📚 Certifications & Learning
+
+- 📜 AWS Certified Solutions Architect – Associate *(2023)*  
+- 🎓 Full-Stack Advanced Web Development – Codecademy Pro  
+- 🔬 Currently exploring: **Rust**, **Serverless Architecture**, **LLMs & AI Tools**
+
+---
+
+## 🧭 Development Philosophy
+
+- 🚦 Code should be simple, readable, and testable  
+- 🧪 TDD isn’t just a tool—it’s a mindset  
+- 🌐 Build for scalability from day one  
+- 🫱🏽‍🫲🏼 Open source is a two-way street—I contribute and maintain
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haruto-nakamura&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haruto-nakamura&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: `haruto.dev@email.com`  
+- 🌐 Portfolio: [harutonakamura.dev](https://harutonakamura.dev) *(fictional)*  
+- 💼 LinkedIn: [linkedin.com/in/haruto-nakamura](https://linkedin.com/in/haruto-nakamura) *(fictional)*  
+- 🧑‍🏫 Blog: Coming soon – sharing dev tips, system design patterns, and lessons from real-world projects. 
